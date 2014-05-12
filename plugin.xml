@@ -25,7 +25,7 @@
 		<source-file src="src/ios/FGExternalFileUtil.m" />
 	</platform>
 	
-	<!-- android -->
+	<!-- android 
 	<platform name="android">
 		<config-file target="config.xml" parent="/*">
 			<feature name="ExternalFileUtil">
@@ -35,6 +35,6 @@
 		
 		<source-file src="src/android/com/fgomiero/cordova/plugin/ExternalFileUtil.java" target-dir="src/com/fgomiero/cordova/plugin" />
 		
-	</platform>
+	</platform> -->
 	
 </plugin>
